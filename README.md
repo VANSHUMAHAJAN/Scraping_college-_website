@@ -1,2 +1,2 @@
 # Scraping_college-_website
-I have scraped    to get the data about  the professors and has later uploaded it on a MongaDb Compass .Later I am Planning to make a chat bot which would receive data from Monga Db  and would reply the other information that person wants.   
+I have scraped  https://www.swansea.ac.uk/staff/engineering/#associate-professors=is-expanded&lecturers-and-tutors=is-expanded&professors=is-expanded&readers=is-expanded&senior-lecturers=is-expanded  to get the data about  the professors and has later uploaded it on a MongaDb Compass .Later I am Planning to make a chat bot which would receive data from Monga Db  and would reply the other information that person wants.   
